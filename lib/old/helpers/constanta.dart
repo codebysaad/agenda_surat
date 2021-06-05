@@ -1,0 +1,1 @@
+String API_LOGIN = "https://script.google.com/macros/s/AKfycbwmctp6yHzicGongmOv2QCq2DCO9TYuQsP38p9qiomHEeBxaDtoN0fR1712o7nU9wuw/exec?";

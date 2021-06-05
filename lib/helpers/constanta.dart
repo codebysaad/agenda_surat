@@ -1,0 +1,14 @@
+final String URL_ENDPOINT = "http://192.168.43.204/surat";
+final String ENDPOINT_ADD = "$URL_ENDPOINT/add.php";
+final String ENDPOINT_EDIT = "$URL_ENDPOINT/edit.php";
+final String ENDPOINT_DELETE = "$URL_ENDPOINT/delete.php";
+final String ENDPOINT_READ = "$URL_ENDPOINT/read.php";
+final String ENDPOINT_LOGIN = "$URL_ENDPOINT/login.php";
+final String ENDPOINT_REGISTER = "$URL_ENDPOINT/register.php";
+final String ENDPOINT_FILE_UPLOAD = "$URL_ENDPOINT/file_upload.php";
+final String ENDPOINT_IMAGE_UPLOAD = "$URL_ENDPOINT/image_upload.php";
+final String ENDPOINT_INSERT = "$URL_ENDPOINT/insert.php";
+final String ENDPOINT_UPDATE = "$URL_ENDPOINT/update.php";
+final String ENDPOINT_DELETE_BY_ID = "$URL_ENDPOINT/delete_by_id.php";
+final String ENDPOINT_READ_ALL = "$URL_ENDPOINT/readAll.php";
+final String ENDPOINT_EXPORT_EXCEL = "$URL_ENDPOINT/export/export_excel.php";
